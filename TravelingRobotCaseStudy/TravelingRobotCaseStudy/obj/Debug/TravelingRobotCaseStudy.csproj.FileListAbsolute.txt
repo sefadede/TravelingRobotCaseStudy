@@ -1,0 +1,7 @@
+C:\Users\Casper\source\repos\TravelingRobotCaseStudy\TravelingRobotCaseStudy\bin\Debug\TravelingRobotCaseStudy.exe.config
+C:\Users\Casper\source\repos\TravelingRobotCaseStudy\TravelingRobotCaseStudy\bin\Debug\TravelingRobotCaseStudy.exe
+C:\Users\Casper\source\repos\TravelingRobotCaseStudy\TravelingRobotCaseStudy\bin\Debug\TravelingRobotCaseStudy.pdb
+C:\Users\Casper\source\repos\TravelingRobotCaseStudy\TravelingRobotCaseStudy\obj\Debug\TravelingRobotCaseStudy.csproj.AssemblyReference.cache
+C:\Users\Casper\source\repos\TravelingRobotCaseStudy\TravelingRobotCaseStudy\obj\Debug\TravelingRobotCaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\Casper\source\repos\TravelingRobotCaseStudy\TravelingRobotCaseStudy\obj\Debug\TravelingRobotCaseStudy.exe
+C:\Users\Casper\source\repos\TravelingRobotCaseStudy\TravelingRobotCaseStudy\obj\Debug\TravelingRobotCaseStudy.pdb
